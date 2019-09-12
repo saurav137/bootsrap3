@@ -1,0 +1,31 @@
+#Header{
+    margin-top: 10px;
+    font-family: Gill Sans;
+}
+#head_li {
+    font-size: 20px;
+    font-family: Helvetica;
+}
+
+#logo{
+    width:25px;
+    height: 25px;
+}
+#hgt{
+    height: 400px;
+}
+.panel img{
+    height:200px;
+    width:200px;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+#features{
+    text-align: centre;
+}
+.panel-heading{
+    text-align:centre;
+}
+#feature_description{
+    text-align: center;
+}
