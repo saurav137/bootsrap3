@@ -11,8 +11,8 @@
     width:25px;
     height: 25px;
 }
-#hgt{
-    height: 400px;
+.hgt{
+    height: 50%;
 }
 .panel img{
     height:200px;
@@ -21,11 +21,20 @@
     margin-top: 10px;
 }
 #features{
-    text-align: centre;
+    text-align: center;
 }
 .panel-heading{
     text-align:centre;
 }
 #feature_description{
     text-align: center;
+}
+#features img{
+   margin: 0 0 20px;
+}
+.panel > .panel-heading {
+    background-image: none;
+    background-color: red;
+    color: white;
+
 }
